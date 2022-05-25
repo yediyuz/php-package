@@ -23,7 +23,7 @@
         "pestphp/pest": "^1.21.3",
         "pestphp/pest-plugin-parallel": "^1.1.0",
         "phpstan/extension-installer": "^1.1",
-        "phpstan/phpstan": "^1.6",
+        "phpstan/phpstan": "^1.7.1",
         "phpunit/phpcov": "^8.2.1",
         "spatie/ray": "^1.34.2"
     },
